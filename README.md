@@ -1,3 +1,3 @@
 # DZone Greeting Android App
 
-This is the app build for the guide 'Automated Android Testing With Kotlin'
+This is the app built for the DZone guide 'Automated Android Testing With Kotlin'
